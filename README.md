@@ -1,4 +1,4 @@
-# proiel-sample
+# proiel
 sample PROIEL minicorpus for Cylleneus
 
 This pre-indexed PROIEL mini-corpus is provided for convenience and testing of Cylleneus. To use, clone this repository into 
